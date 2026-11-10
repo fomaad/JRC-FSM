@@ -1,6 +1,6 @@
 # Sensitivity Analysis: Usage
 
-OAT sensitivity study of `CC_human_driver` in the cut-in scenario, run over all 28 speed pairs (15 low + 13 high).
+Sensitivity study of `CC_human_driver` in the cut-in scenario, run over all 28 speed pairs (15 low + 13 high).
 
 ## Files
 
